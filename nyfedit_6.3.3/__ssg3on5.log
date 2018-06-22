@@ -1,0 +1,28 @@
+2016-12-12 23:23:25	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2016-12-12 23:23:26	**ERR: _CFolderTree::open(pStg=02C91CD0); Failed with errcode=-20.
+2017-02-10 09:25:19	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2017-02-10 09:25:20	**ERR: _CFolderTree::open(pStg=008689D8); Failed with errcode=-20.
+2017-02-13 09:41:13	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2017-02-13 09:41:13	**ERR: _CFolderTree::open(pStg=006789D8); Failed with errcode=-20.
+2017-03-23 16:08:07	**WARN: _CFolderTree::_openStage2(); Password callback function canceled.
+2017-03-23 16:08:07	**ERR: _CFolderTree::open(pStg=02E11730); Failed with errcode=-21.
+2017-06-07 09:11:51	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2017-06-07 09:11:51	**ERR: _CFolderTree::open(pStg=02F0D5F8); Failed with errcode=-20.
+2017-07-04 11:14:19	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2017-07-04 11:14:20	**ERR: _CFolderTree::open(pStg=029FD5A0); Failed with errcode=-20.
+2017-09-08 17:08:36	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2017-09-08 17:08:36	**ERR: _CFolderTree::open(pStg=02328FE8); Failed with errcode=-20.
+2017-09-28 09:40:55	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2017-09-28 09:40:56	**ERR: _CFolderTree::open(pStg=02389EE0); Failed with errcode=-20.
+2017-10-16 17:41:19	**WARN: _CFolderTree::_openStage2(); Password callback function canceled.
+2017-10-16 17:41:20	**ERR: _CFolderTree::open(pStg=02641EE8); Failed with errcode=-21.
+2017-10-16 18:02:02	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2017-10-16 18:02:02	**ERR: _CFolderTree::open(pStg=020088B0); Failed with errcode=-20.
+2017-12-08 11:32:45	**WARN: _CFolderTree::_openStage2(); Password callback function canceled.
+2017-12-08 11:32:45	**ERR: _CFolderTree::open(pStg=029D7828); Failed with errcode=-21.
+2018-02-07 08:47:20	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2018-02-07 08:47:20	**ERR: _CFolderTree::open(pStg=029AB990); Failed with errcode=-20.
+2018-04-04 16:35:04	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2018-04-04 16:35:05	**ERR: _CFolderTree::open(pStg=01F71420); Failed with errcode=-20.
+2018-04-09 15:13:11	**ERR: _CFolderTree::_openStage2(); Wrong password.
+2018-04-09 15:13:11	**ERR: _CFolderTree::open(pStg=00CD01A0); Failed with errcode=-20.
